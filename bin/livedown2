@@ -20,7 +20,7 @@ function help () {
 
 function log (message) {
   if (argv.verbose) {
-    console.log('[livedown] ' + message)
+    console.log('[livedown2] ' + message)
   }
 }
 
