@@ -21,7 +21,7 @@ describe('utils.splitCommandLine', function () {
   })
 })
 
-describe('livedown', function () {
+describe('livedown2', function () {
   before(function (done) {
     server.start('test/fixtures/basic.md', done)
   })

@@ -23,11 +23,11 @@ And more!
 
 ## Installation
 
-    $ npm install -g livedown
+    $ npm install -g livedown2
 
 ## Usage
 
-    $ livedown --help
+    $ livedown2 --help
 
 ## Alternatives
 
